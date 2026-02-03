@@ -4,11 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Narong+Kha;" />
 </h1>
 
-<h3 align="center">I am a junior software developer . I here to share what I have done and finding something new for my future career</h3>
+<h3 align="center">I am a junior software developer . I here to share what I have done and finding something new for my future career.</h3>
 
 <div align="center">
-  🔭 I'm currently working on **computing teacher , math & physic teacher and some hand on project**
-  🌱 I'm currently learning **I'm a year 4th student at RUPP . Nearly graduate in a few month more**
+  🔭 I'm currently working on **computing teacher , math & physic teacher and some hand on project.**
+  🌱 I'm currently learning **I'm a year 4th student at RUPP nearly graduate in a few month more.**
   💬 Ask me about **C C++ Python HTML CSS JAVA Javascript PHP Larevel Docker Mysql react node js scratch flutter dart tailwind figma cisco**
   ⚡ Fun fact **Game at night Sleepy in the morning**
 </div>
@@ -36,16 +36,3 @@
 </div>
 
 ---
-
-## 🐍 My Contributions
-<img alt="contributions" src="https://raw.githubusercontent.com/NARONG101/NARONG101/output/github-contribution-grid-snake.svg" />
-
----
-
-## ⚡ Stats
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=NARONG101&theme=react" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=NARONG101&show_icons=true&theme=react" />
-  <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NARONG101&langs_count=8&theme=react" />
-</div>
