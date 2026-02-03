@@ -97,7 +97,7 @@ I'm a passionate junior software developer and computing teacher who loves turni
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NARONG101.NARONG101" alt="Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NARONG101/NARONG101" alt="Visitors" />
   
   <br/>
   
