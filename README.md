@@ -75,11 +75,7 @@ I'm a passionate junior software developer and computing teacher who loves turni
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NARONG101/NARONG101/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NARONG101/NARONG101/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/NARONG101/NARONG101/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/NARONG101/NARONG101/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
