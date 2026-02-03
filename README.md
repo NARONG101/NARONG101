@@ -56,12 +56,18 @@ I'm a passionate junior software developer and computing teacher who loves turni
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NARONG101&show_icons=true&theme=react&border_radius=10&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NARONG101&theme=react&border_radius=10&hide_border=true" height="180" alt="GitHub Streak" />
+  <a href="https://github.com/NARONG101">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NARONG101&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" />
+  </a>
+  <a href="https://github.com/NARONG101">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NARONG101&theme=react&hide_border=true" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NARONG101&layout=compact&theme=react&border_radius=10&hide_border=true" height="180" alt="Top Languages" />
+  <a href="https://github.com/NARONG101">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NARONG101&layout=compact&theme=react&hide_border=true" />
+  </a>
 </div>
 
 ---
@@ -69,7 +75,11 @@ I'm a passionate junior software developer and computing teacher who loves turni
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NARONG101/NARONG101/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NARONG101/NARONG101/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NARONG101/NARONG101/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/NARONG101/NARONG101/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </picture>
 </div>
 
 ---
