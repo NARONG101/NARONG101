@@ -8,8 +8,11 @@
 
 <div align="center">
   🔭 I'm currently working on **computing teacher , math & physic teacher and some hand on project.**
+  
   🌱 I'm currently learning **I'm a year 4th student at RUPP nearly graduate in a few month more.**
+  
   💬 Ask me about **C C++ Python HTML CSS JAVA Javascript PHP Larevel Docker Mysql react node js scratch flutter dart tailwind figma cisco**
+  
   ⚡ Fun fact **Game at night Sleepy in the morning**
 </div>
 
