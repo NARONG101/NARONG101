@@ -46,23 +46,42 @@
 <br/>
 <hr/>
 
+<!-- ================== CONTRIBUTIONS ================== -->
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="contributions" src="https://raw.githubusercontent.com/NARONG101/NARONG101/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/NARONG101/NARONG101/output/github-contribution-grid-snake.svg"
+  />
 </div>
 
-<hr/>
+---
 
+<!-- ================== STATS ================== -->
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=NARONG101&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=NARONG101&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NARONG101&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+
+<div align="center">
+  <img
+    width="390"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=NARONG101&theme=react&border_radius=10"
+    alt="GitHub Streak"
+  />
+
+  <img
+    width="390"
+    src="https://github-readme-stats.vercel.app/api?username=NARONG101&show_icons=true&theme=react&rank_icon=github&border_radius=10"
+    alt="GitHub Stats"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    width="325"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NARONG101&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10"
+    alt="Top Languages"
+  />
 </div>
 
 <br/><br/>
