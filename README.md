@@ -1,73 +1,32 @@
 <div align="center">
 
-[![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Narong%20Kha&fontSize=90&animation=fadeIn&fontAlignY=35)](https://github.com/NARONG101)
+[![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=280&section=header&text=Narong%20Kha&fontSize=80&animation=fadeIn&fontAlignY=35)](https://github.com/NARONG101)
 
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=28&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Narong+Kha!;Junior+Software+Developer" alt="Typing SVG" />
-
----
-
-### 🚀 About Me
-
-```yaml
-name: Narong Kha
-role: Junior Software Developer & Computing Teacher
-location: Cambodia 🇰🇭
-education: 4th Year Student at RUPP
-graduation: Coming Soon! 🎓
-```
-
-> *"I believe in learning by doing and sharing knowledge with others."*
-
-I'm a passionate junior software developer and computing teacher who loves turning ideas into reality through code. Currently completing my degree at the Royal University of Phnom Penh while working on exciting projects and helping students discover the magic of programming.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=24&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Narong+Kha!;Junior+Software+Developer)](https://git.io/typing-svg)
 
 ---
 
-### 🛠️ Tech Stack
+### 👨‍💻 About Me
 
-#### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- 🔭 Currently working on personal projects & teaching
+- 🌱 Learning new technologies every day
+- 💼 Open to internship and job opportunities
+- 🎓 4th Year CS Student at RUPP
 
-#### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Tech Stack:**
 
-#### Databases & DevOps
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-#### Mobile & Other
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,html,css,php,laravel,mysql,docker,tailwind,flutter,figma&perline=7)](https://skillicons.dev)
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/NARONG101">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NARONG101&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/NARONG101">
-    <img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=NARONG101&theme=react&hide_border=true" />
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/NARONG101">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NARONG101&layout=compact&theme=react&hide_border=true" />
-  </a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NARONG101&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=NARONG101&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NARONG101&layout=compact&theme=radical&hide_border=true)
+
 </div>
 
 ---
@@ -75,46 +34,34 @@ I'm a passionate junior software developer and computing teacher who loves turni
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NARONG101/NARONG101/main/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NARONG101/NARONG101/main/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/NARONG101/NARONG101/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  </picture>
-  <p><sub>Contribution Snake — Auto-generated by GitHub Action</sub></p>
+
+![Snake animation](https://raw.githubusercontent.com/NARONG101/NARONG101/output/github-contribution-grid-snake.svg)
+
+*Auto-generated by GitHub Action*
+
 </div>
 
 ---
 
-### 🤝 Connect With Me
+### 📫 Connect With Me
 
 <div align="center">
-  <a href="mailto:khanarong11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.facebook.com/share/1AxiM83hBT/?mibextid=wwXIfr" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://t.me/narong12" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://www.instagram.com/iamrong12?igsh=dnBpa2xoYXk5bWZ2&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/narong-kha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanarong11@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AxiM83hBT/?mibextid=wwXIfr)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/narong12)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamrong12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/narong-kha)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NARONG101/NARONG101" alt="Visitors" />
-  
-  <br/>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=NARONG101&color=blueviolet)
-  
-  <br/>
-  
-  <p>⭐ From [NARONG101](https://github.com/NARONG101)</p>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NARONG101/NARONG101)
+![Profile Views](https://komarev.com/ghpvc/?username=NARONG101&color=blueviolet)
+
+**Thanks for visiting! ⭐**
+
 </div>
